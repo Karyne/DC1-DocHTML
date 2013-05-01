@@ -1,30 +1,9 @@
-<!DOCTYPE html>
+<!Doctype HTML>
 <html>
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="../stylesheets/stylesheet.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="../stylesheets/pygment_trac.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="../stylesheets/print.css" media="print" />
-
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <title>Dc1-dochtml by dbrhub</title>
-  </head>
-
-  <body>
-    <header>
-      <div class="inner">
-        <h1>Dc1-dochtml</h1>
-        <h2></h2>
-        <a href="https://github.com/dbrhub/DC1-DocHTML" class="button"><small>View project on</small>GitHub</a>
-      </div>
-    </header>
-	<div class="code">
+	<head>
+	</head>
+	<body>
+		<div class="code">
 <!-- Generator: GNU source-highlight 3.1.6
 by Lorenzo Bettini
 http://www.lorenzobettini.it
@@ -34,15 +13,15 @@ http://www.gnu.org/software/src-highlite -->
 <span class="keyword">&lt;html&gt;</span>
 <span class="normal">	</span><span class="keyword">&lt;head&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;meta</span><span class="normal"> </span><span class="type">http-equiv</span><span class="symbol">=</span><span class="string">"content-type"</span><span class="normal"> </span><span class="type">content</span><span class="symbol">=</span><span class="string">"text/html; charset=UTF-8"</span><span class="keyword">&gt;</span>
+<span class="normal">		</span><span class="keyword">&lt;link</span><span class="normal"> </span><span class="type">rel</span><span class="symbol">=</span><span class="string">"stylesheet"</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../CSS/style.css"</span><span class="keyword">&gt;</span>
 <span class="normal">		</span><span class="comment">&lt;!--</span>
 <span class="comment">			CSS principale pour l'ensemble du site.</span>
 <span class="comment">		--&gt;</span>
-<span class="normal">		</span><span class="keyword">&lt;link</span><span class="normal"> </span><span class="type">rel</span><span class="symbol">=</span><span class="string">"stylesheet"</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../CSS/style.css"</span><span class="keyword">&gt;</span>
+<span class="normal">		</span><span class="keyword">&lt;link</span><span class="normal"> </span><span class="type">rel</span><span class="symbol">=</span><span class="string">"stylesheet"</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../CSS/style-du-menu.css"</span><span class="keyword">&gt;</span>
 <span class="normal">		</span><span class="comment">&lt;!--</span>
 <span class="comment">			CSS secondaire pour le menu uniquement.</span>
 <span class="comment">		--&gt;</span>
-<span class="normal">		</span><span class="keyword">&lt;link</span><span class="normal"> </span><span class="type">rel</span><span class="symbol">=</span><span class="string">"stylesheet"</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../CSS/style-du-menu.css"</span><span class="keyword">&gt;</span>
-<span class="normal">		</span><span class="keyword">&lt;title&gt;</span><span class="normal">Page en construction</span><span class="keyword">&lt;/title&gt;</span>
+<span class="normal">		</span><span class="keyword">&lt;title&gt;</span><span class="normal">Album d'activités</span><span class="keyword">&lt;/title&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;meta</span><span class="normal"> </span><span class="type">name</span><span class="symbol">=</span><span class="string">"application-name"</span><span class="normal"> </span><span class="type">content</span><span class="symbol">=</span><span class="string">"HTML-Doc"</span><span class="keyword">&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;meta</span><span class="normal"> </span><span class="type">name</span><span class="symbol">=</span><span class="string">"description"</span><span class="normal"> </span><span class="type">content</span><span class="symbol">=</span><span class="string">"Documentation du code de notre TP3."</span><span class="keyword">&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;meta</span><span class="normal"> </span><span class="type">name</span><span class="symbol">=</span><span class="string">"keywords"</span><span class="normal"> </span><span class="type">content</span><span class="symbol">=</span><span class="string">"HTML,TP3,Documentation"</span><span class="keyword">&gt;</span>
@@ -94,7 +73,7 @@ http://www.gnu.org/software/src-highlite -->
 <span class="comment">			et modifié dans le cadre d'un projet scolaire.</span>
 <span class="comment">		--&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;div</span><span class="normal"> </span><span class="type">id</span><span class="symbol">=</span><span class="string">"navbar"</span><span class="keyword">&gt;</span>
-<span class="normal">				</span><span class="keyword">&lt;ul</span><span class="normal"> </span><span class="type">id</span><span class="symbol">=</span><span class="string">"menu"</span><span class="keyword">&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;ul</span><span class="normal"> </span><span class="type">id</span><span class="symbol">=</span><span class="string">"menu"</span><span class="keyword">&gt;</span>
 <span class="normal">				</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../index.html"</span><span class="keyword">&gt;</span><span class="normal">Accueil</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
 <span class="normal">				</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">""</span><span class="keyword">&gt;</span><span class="normal">Programme</span><span class="keyword">&lt;/a&gt;</span>
 <span class="normal">					</span><span class="keyword">&lt;ul</span><span class="normal"> </span><span class="type">class</span><span class="symbol">=</span><span class="string">"sous-menu"</span><span class="keyword">&gt;</span>
@@ -106,7 +85,8 @@ http://www.gnu.org/software/src-highlite -->
 <span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Programmation orientée par objet 									I</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
 <span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Base de données II</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
 <span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Réseau II</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
-<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Soutien technique en 									informatique</span><span class="keyword">&lt;a&gt;&lt;/li&gt;</span>
+<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Soutien technique en</span>
+<span class="normal">								informatique</span><span class="keyword">&lt;a&gt;&lt;/li&gt;</span>
 <span class="normal">							</span><span class="keyword">&lt;/ul&gt;</span>
 <span class="normal">						</span><span class="keyword">&lt;/li&gt;</span>
 <span class="normal">					</span><span class="keyword">&lt;/ul&gt;</span>
@@ -147,47 +127,47 @@ http://www.gnu.org/software/src-highlite -->
 <span class="comment">			Contient l'information sur notre emplacement actuel sur le site.</span>
 <span class="comment">		--&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;div</span><span class="normal"> </span><span class="type">id</span><span class="symbol">=</span><span class="string">"breadcrum"</span><span class="keyword">&gt;</span>
-<span class="normal">			</span><span class="keyword">&lt;p&gt;</span><span class="normal">Page en construction </span><span class="keyword">&lt;/p&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;p&gt;</span><span class="normal">Album d'activités</span><span class="keyword">&lt;/p&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;/div&gt;</span>
-<span class="normal">		</span><span class="keyword">&lt;div</span><span class="normal"> </span><span class="type">id</span><span class="symbol">=</span><span class="string">"construction"</span><span class="keyword">&gt;</span>
+<span class="normal">		</span><span class="keyword">&lt;div</span><span class="normal"> </span><span class="type">id</span><span class="symbol">=</span><span class="string">"album"</span><span class="keyword">&gt;</span>
 <span class="normal">		</span><span class="comment">&lt;!--</span>
 <span class="comment">			Contient les éléments de l'encadré principal. </span>
 <span class="comment">		--&gt;</span>
-<span class="normal">			</span><span class="keyword">&lt;p&gt;</span><span class="normal">Cette page est en construction !</span><span class="keyword">&lt;br/&gt;</span><span class="normal">...</span><span class="keyword">&lt;br/&gt;</span><span class="normal">...</span><span class="keyword">&lt;br/&gt;</span><span class="normal">Revenez plus tard !</span><span class="keyword">&lt;br/&gt;</span><span class="normal">...</span><span class="keyword">&lt;/p&gt;</span>
-<span class="normal">			</span><span class="keyword">&lt;img</span><span class="normal"> </span><span class="type">src</span><span class="symbol">=</span><span class="string">"../images/peconstruction.png"</span><span class="normal"> </span><span class="type">alt</span><span class="symbol">=</span><span class="string">"Page en construction"</span><span class="keyword">/&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./Images/DSC_2828.jpg"</span><span class="keyword">&gt;</span>
+<span class="normal">				</span><span class="keyword">&lt;img</span><span class="normal"> </span><span class="type">class</span><span class="symbol">=</span><span class="string">"activites"</span><span class="normal"> </span><span class="type">src</span><span class="symbol">=</span><span class="string">"http://206.123.48.17/~benoitd/CN1H2013/TP3/Images/DSC_2828.jpg"</span><span class="normal"> </span><span class="type">alt</span><span class="symbol">=</span><span class="string">"Photo 1"</span><span class="keyword">/&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;/a&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./Images/DSC_2829.jpg"</span><span class="keyword">&gt;</span>
+<span class="normal">				</span><span class="keyword">&lt;img</span><span class="normal"> </span><span class="type">class</span><span class="symbol">=</span><span class="string">"activites"</span><span class="normal"> </span><span class="type">src</span><span class="symbol">=</span><span class="string">"http://206.123.48.17/~benoitd/CN1H2013/TP3/Images/DSC_2829.jpg"</span><span class="normal"> </span><span class="type">alt</span><span class="symbol">=</span><span class="string">"Photo 2"</span><span class="keyword">/&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;/a&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"http://206.123.48.17/~benoitd/CN1H2013/TP3/Images/DSC_2831.jpg"</span><span class="keyword">&gt;</span>
+<span class="normal">				</span><span class="keyword">&lt;img</span><span class="normal"> </span><span class="type">class</span><span class="symbol">=</span><span class="string">"activites"</span><span class="normal"> </span><span class="type">src</span><span class="symbol">=</span><span class="string">"http://206.123.48.17/~benoitd/CN1H2013/TP3/Images/DSC_2831.jpg"</span><span class="normal"> </span><span class="type">alt</span><span class="symbol">=</span><span class="string">"Photo 3"</span><span class="keyword">/&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;/a&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"http://206.123.48.17/~benoitd/CN1H2013/TP3/Images/DSC_2832.jpg"</span><span class="keyword">&gt;</span>
+<span class="normal">				</span><span class="keyword">&lt;img</span><span class="normal"> </span><span class="type">class</span><span class="symbol">=</span><span class="string">"activites"</span><span class="normal"> </span><span class="type">src</span><span class="symbol">=</span><span class="string">"http://206.123.48.17/~benoitd/CN1H2013/TP3/Images/DSC_2832.jpg"</span><span class="normal"> </span><span class="type">alt</span><span class="symbol">=</span><span class="string">"Photo 4"</span><span class="keyword">/&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;/a&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"http://206.123.48.17/~benoitd/CN1H2013/TP3/Images/DSC_2833.jpg"</span><span class="keyword">&gt;</span>
+<span class="normal">				</span><span class="keyword">&lt;img</span><span class="normal"> </span><span class="type">class</span><span class="symbol">=</span><span class="string">"activites"</span><span class="normal"> </span><span class="type">src</span><span class="symbol">=</span><span class="string">"http://206.123.48.17/~benoitd/CN1H2013/TP3/Images/DSC_2833.jpg"</span><span class="normal"> </span><span class="type">alt</span><span class="symbol">=</span><span class="string">"Photo 5"</span><span class="keyword">/&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;/a&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"http://206.123.48.17/~benoitd/CN1H2013/TP3/Images/DSC_2834.jpg"</span><span class="keyword">&gt;</span>
+<span class="normal">				</span><span class="keyword">&lt;img</span><span class="normal"> </span><span class="type">class</span><span class="symbol">=</span><span class="string">"activites"</span><span class="normal"> </span><span class="type">src</span><span class="symbol">=</span><span class="string">"http://206.123.48.17/~benoitd/CN1H2013/TP3/Images/DSC_2834.jpg"</span><span class="normal"> </span><span class="type">alt</span><span class="symbol">=</span><span class="string">"Photo 6"</span><span class="keyword">/&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;/a&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"http://206.123.48.17/~benoitd/CN1H2013/TP3/Images/DSC_2836.jpg"</span><span class="keyword">&gt;</span>
+<span class="normal">				</span><span class="keyword">&lt;img</span><span class="normal"> </span><span class="type">class</span><span class="symbol">=</span><span class="string">"activites"</span><span class="normal"> </span><span class="type">src</span><span class="symbol">=</span><span class="string">"http://206.123.48.17/~benoitd/CN1H2013/TP3/Images/DSC_2836.jpg"</span><span class="normal"> </span><span class="type">alt</span><span class="symbol">=</span><span class="string">"Photo 7"</span><span class="keyword">/&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;/a&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"http://206.123.48.17/~benoitd/CN1H2013/TP3/Images/DSC_2837.jpg"</span><span class="keyword">&gt;</span>
+<span class="normal">				</span><span class="keyword">&lt;img</span><span class="normal"> </span><span class="type">class</span><span class="symbol">=</span><span class="string">"activites"</span><span class="normal"> </span><span class="type">src</span><span class="symbol">=</span><span class="string">"http://206.123.48.17/~benoitd/CN1H2013/TP3/Images/DSC_2837.jpg"</span><span class="normal"> </span><span class="type">alt</span><span class="symbol">=</span><span class="string">"Photo 8"</span><span class="keyword">/&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;/a&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"http://206.123.48.17/~benoitd/CN1H2013/TP3/Images/DSC_2838.jpg"</span><span class="keyword">&gt;</span>
+<span class="normal">				</span><span class="keyword">&lt;img</span><span class="normal"> </span><span class="type">class</span><span class="symbol">=</span><span class="string">"activites"</span><span class="normal"> </span><span class="type">src</span><span class="symbol">=</span><span class="string">"http://206.123.48.17/~benoitd/CN1H2013/TP3/Images/DSC_2838.jpg"</span><span class="normal"> </span><span class="type">alt</span><span class="symbol">=</span><span class="string">"Photo 9"</span><span class="keyword">/&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;/a&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"http://206.123.48.17/~benoitd/CN1H2013/TP3/Images/DSC_2839.jpg"</span><span class="keyword">&gt;</span>
+<span class="normal">				</span><span class="keyword">&lt;img</span><span class="normal"> </span><span class="type">class</span><span class="symbol">=</span><span class="string">"activites"</span><span class="normal"> </span><span class="type">src</span><span class="symbol">=</span><span class="string">"http://206.123.48.17/~benoitd/CN1H2013/TP3/Images/DSC_2839.jpg"</span><span class="normal"> </span><span class="type">alt</span><span class="symbol">=</span><span class="string">"Photo 10"</span><span class="keyword">/&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;/a&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;/div&gt;</span>
 <span class="normal">	</span><span class="keyword">&lt;/div&gt;</span>
 <span class="normal">	</span><span class="keyword">&lt;/body&gt;</span>
 <span class="keyword">&lt;/html&gt;</span>
 </tt></pre>
-	</div>
-    <div id="content-wrapper">
-      <div class="inner clearfix">
-        <section id="main-content">
-          <h1>DC1-DocHTML</h1>
-
-<p>Documentation de notre TP3
-420-DC1-DM
-Documentation informatique et gestion de documents</p>
-        </section>
-
-        <aside id="sidebar">
-          <a href="https://github.com/dbrhub/DC1-DocHTML/zipball/master" class="button">
-            <small>Download</small>
-            .zip file
-          </a>
-          <a href="https://github.com/dbrhub/DC1-DocHTML/tarball/master" class="button">
-            <small>Download</small>
-            .tar.gz file
-          </a>
-
-          <p class="repo-owner"><a href="https://github.com/dbrhub/DC1-DocHTML"></a> is maintained by <a href="https://github.com/dbrhub">dbrhub</a>.</p>
-
-          <p>This page was generated by <a href="pages.github.com">GitHub Pages</a> using the Architect theme by <a href="http://twitter.com/jasonlong">Jason Long</a>.</p>
-        </aside>
-      </div>
-    </div>
-
-  
-  </body>
+		</div>
+	</body>
 </html>
