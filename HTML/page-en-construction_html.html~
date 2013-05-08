@@ -14,22 +14,22 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <title>Benoît Desrosiers</title>
+    <title>Page en construction</title>
   </head>
-	
+
   <body>
     <header>
       <div class="inner">
-        <h1>Benoît Desrosiers</h1>
+        <h1>Page en construction</h1>
         <h2></h2>
         <a href="https://github.com/dbrhub/DC1-DocHTML" class="button"><small>View project on</small>GitHub</a>
       </div>
     </header>
 	<div class="menu">
 		<ul class="menu-ul">
-			<li class="menu-li"><a href="../index.html">Accueil</a></li>
-			<li class="menu-li"><a href="../screenshots.html">Screenshots</a></li>
-			<li class="menu-li"><a href="../indexliste.html">Documentation</a></li>
+			<li class="menu-li"><a href="./index.html">Accueil</a></li>
+			<li class="menu-li"><a href="./screenshots.html">Screenshots</a></li>
+			<li class="menu-li"><a href="./indexliste.html">Documentation</a></li>
 		</ul>
 	</div>
 	<div class="retour-liste">
@@ -48,12 +48,12 @@ http://www.gnu.org/software/src-highlite -->
 <span class="normal">		</span><span class="comment">&lt;!--</span>
 <span class="comment">			CSS principale pour l'ensemble du site.</span>
 <span class="comment">		--&gt;</span>
-<span class="normal">		</span><span class="keyword">&lt;link</span><span class="normal"> </span><span class="type">rel</span><span class="symbol">=</span><span class="string">"stylesheet"</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../../CSS/style.css"</span><span class="keyword">&gt;</span>
+<span class="normal">		</span><span class="keyword">&lt;link</span><span class="normal"> </span><span class="type">rel</span><span class="symbol">=</span><span class="string">"stylesheet"</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../CSS/style.css"</span><span class="keyword">&gt;</span>
 <span class="normal">		</span><span class="comment">&lt;!--</span>
 <span class="comment">			CSS secondaire pour le menu uniquement.</span>
 <span class="comment">		--&gt;</span>
-<span class="normal">		</span><span class="keyword">&lt;link</span><span class="normal"> </span><span class="type">rel</span><span class="symbol">=</span><span class="string">"stylesheet"</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../../CSS/style-du-menu.css"</span><span class="keyword">&gt;</span>
-<span class="normal">		</span><span class="keyword">&lt;title&gt;</span><span class="normal">Benoît Desrosiers</span><span class="keyword">&lt;/title&gt;</span>
+<span class="normal">		</span><span class="keyword">&lt;link</span><span class="normal"> </span><span class="type">rel</span><span class="symbol">=</span><span class="string">"stylesheet"</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../CSS/style-du-menu.css"</span><span class="keyword">&gt;</span>
+<span class="normal">		</span><span class="keyword">&lt;title&gt;</span><span class="normal">Page en construction</span><span class="keyword">&lt;/title&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;meta</span><span class="normal"> </span><span class="type">name</span><span class="symbol">=</span><span class="string">"application-name"</span><span class="normal"> </span><span class="type">content</span><span class="symbol">=</span><span class="string">"HTML-Doc"</span><span class="keyword">&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;meta</span><span class="normal"> </span><span class="type">name</span><span class="symbol">=</span><span class="string">"description"</span><span class="normal"> </span><span class="type">content</span><span class="symbol">=</span><span class="string">"Documentation du code de notre TP3."</span><span class="keyword">&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;meta</span><span class="normal"> </span><span class="type">name</span><span class="symbol">=</span><span class="string">"keywords"</span><span class="normal"> </span><span class="type">content</span><span class="symbol">=</span><span class="string">"HTML,TP3,Documentation"</span><span class="keyword">&gt;</span>
@@ -87,7 +87,7 @@ http://www.gnu.org/software/src-highlite -->
 <span class="normal">			</span><span class="comment">&lt;!--</span>
 <span class="comment">				Libre de droit pris sur Wiki.</span>
 <span class="comment">			--&gt;</span>
-<span class="normal">			</span><span class="keyword">&lt;img</span><span class="normal"> </span><span class="type">src</span><span class="symbol">=</span><span class="string">"../../images/logocdd.png"</span><span class="normal"> </span><span class="type">alt</span><span class="symbol">=</span><span class="string">"Cégep de Drummondville"</span><span class="keyword">/&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;img</span><span class="normal"> </span><span class="type">src</span><span class="symbol">=</span><span class="string">"../images/logocdd.png"</span><span class="normal"> </span><span class="type">alt</span><span class="symbol">=</span><span class="string">"Cégep de Drummondville"</span><span class="keyword">/&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;/div&gt;</span>
 <span class="normal">		</span><span class="comment">&lt;!--</span>
 <span class="comment">			Contient la bannière.</span>
@@ -96,7 +96,7 @@ http://www.gnu.org/software/src-highlite -->
 <span class="normal">			</span><span class="comment">&lt;!--</span>
 <span class="comment">				Créé par Karyne</span>
 <span class="comment">			--&gt;</span>
-<span class="normal">			</span><span class="keyword">&lt;img</span><span class="normal"> </span><span class="type">src</span><span class="symbol">=</span><span class="string">"../../images/banniereinfo.png"</span><span class="normal"> </span><span class="type">alt</span><span class="symbol">=</span><span class="string">"Département de l'informatique"</span><span class="keyword">/&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;img</span><span class="normal"> </span><span class="type">src</span><span class="symbol">=</span><span class="string">"../images/banniereinfo.png"</span><span class="normal"> </span><span class="type">alt</span><span class="symbol">=</span><span class="string">"Département de l'informatique"</span><span class="keyword">/&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;/div&gt;</span>
 <span class="normal">		</span><span class="comment">&lt;!--</span>
 <span class="comment">			Contient le menu déroulant.</span>
@@ -105,34 +105,34 @@ http://www.gnu.org/software/src-highlite -->
 <span class="comment">			et modifié dans le cadre d'un projet scolaire.</span>
 <span class="comment">		--&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;div</span><span class="normal"> </span><span class="type">id</span><span class="symbol">=</span><span class="string">"navbar"</span><span class="keyword">&gt;</span>
-<span class="normal">			</span><span class="keyword">&lt;ul</span><span class="normal"> </span><span class="type">id</span><span class="symbol">=</span><span class="string">"menu"</span><span class="keyword">&gt;</span>
-<span class="normal">				</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../../index.html"</span><span class="keyword">&gt;</span><span class="normal">Accueil</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="normal">				</span><span class="keyword">&lt;ul</span><span class="normal"> </span><span class="type">id</span><span class="symbol">=</span><span class="string">"menu"</span><span class="keyword">&gt;</span>
+<span class="normal">				</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../index.html"</span><span class="keyword">&gt;</span><span class="normal">Accueil</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
 <span class="normal">				</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">""</span><span class="keyword">&gt;</span><span class="normal">Programme</span><span class="keyword">&lt;/a&gt;</span>
 <span class="normal">					</span><span class="keyword">&lt;ul</span><span class="normal"> </span><span class="type">class</span><span class="symbol">=</span><span class="string">"sous-menu"</span><span class="keyword">&gt;</span>
-<span class="normal">						</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../sommaire-du-programme.html"</span><span class="keyword">&gt;</span><span class="normal">Sommaire</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
-<span class="normal">						</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../cours/420-CN1-DM.html"</span><span class="keyword">&gt;</span><span class="normal">Liste de cours</span><span class="keyword">&lt;/a&gt;</span>
+<span class="normal">						</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./sommaire-du-programme.html"</span><span class="keyword">&gt;</span><span class="normal">Sommaire</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="normal">						</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./cours/420-CN1-DM.html"</span><span class="keyword">&gt;</span><span class="normal">Liste de cours</span><span class="keyword">&lt;/a&gt;</span>
 <span class="normal">							</span><span class="keyword">&lt;ul</span><span class="normal"> </span><span class="type">class</span><span class="symbol">=</span><span class="string">"sous--menu"</span><span class="keyword">&gt;</span>
-<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Système d'exploitation I</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
-<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../cours/420-CN1-DM.html"</span><span class="keyword">&gt;</span><span class="normal">Conception et développement d'une 									application hypermédia I</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
-<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Programmation orientée par objet 									I</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
-<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Base de données II</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
-<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Réseau II</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
-<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Soutien technique en 								informatique</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Système d'exploitation I</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./cours/420-CN1-DM.html"</span><span class="keyword">&gt;</span><span class="normal">Conception et développement d'une 								application hypermédia I</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Programmation orientée par objet 									I</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Base de données II</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Réseau II</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Soutien technique en 									informatique</span><span class="keyword">&lt;a&gt;&lt;/li&gt;</span>
 <span class="normal">							</span><span class="keyword">&lt;/ul&gt;</span>
 <span class="normal">						</span><span class="keyword">&lt;/li&gt;</span>
 <span class="normal">					</span><span class="keyword">&lt;/ul&gt;</span>
 <span class="normal">				</span><span class="keyword">&lt;/li&gt;</span>
 <span class="normal">				</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">""</span><span class="keyword">&gt;</span><span class="normal">Professeurs</span><span class="keyword">&lt;/a&gt;</span>
 <span class="normal">					</span><span class="keyword">&lt;ul</span><span class="normal"> </span><span class="type">class</span><span class="symbol">=</span><span class="string">"sous-menu"</span><span class="keyword">&gt;</span>
-<span class="normal">						</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Guy Bernard</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
-<span class="normal">						</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./benoit-desrosiers.html"</span><span class="keyword">&gt;</span><span class="normal">Benoît Desrosiers</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
-<span class="normal">						</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Jonathan Gareau</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
-<span class="normal">						</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Sylvie L'Heureux</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
-<span class="normal">						</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Louis Marchand</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="normal">						</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Guy Bernard</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="normal">						</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./professeurs/benoit-desrosiers.html"</span><span class="keyword">&gt;</span><span class="normal">Benoît Desrosiers</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="normal">						</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Jonathan Gareau</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="normal">						</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Sylvie L'Heureux</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="normal">						</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Louis Marchand</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
 <span class="normal">					</span><span class="keyword">&lt;/ul&gt;</span>
 <span class="normal">				</span><span class="keyword">&lt;/li&gt;</span>
-<span class="normal">				</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Salle de presse</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
-<span class="normal">				</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../album-dactivites.html"</span><span class="keyword">&gt;</span><span class="normal">Activités</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="normal">				</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Salle de presse</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="normal">				</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./album-dactivites.html"</span><span class="keyword">&gt;</span><span class="normal">Activités</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
 <span class="normal">			</span><span class="keyword">&lt;/ul&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;/div&gt;</span>
 <span class="normal">		</span><span class="comment">&lt;!--</span>
@@ -158,31 +158,14 @@ http://www.gnu.org/software/src-highlite -->
 <span class="comment">			Contient l'information sur notre emplacement actuel sur le site.</span>
 <span class="comment">		--&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;div</span><span class="normal"> </span><span class="type">id</span><span class="symbol">=</span><span class="string">"breadcrum"</span><span class="keyword">&gt;</span>
-<span class="normal">			</span><span class="keyword">&lt;p&gt;</span><span class="normal">Professeurs &gt; Benoît Desrosiers</span><span class="keyword">&lt;/p&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;p&gt;</span><span class="normal">Page en construction </span><span class="keyword">&lt;/p&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;/div&gt;</span>
-<span class="normal">		</span><span class="keyword">&lt;div</span><span class="normal"> </span><span class="type">id</span><span class="symbol">=</span><span class="string">"benoit-desrosiers"</span><span class="keyword">&gt;</span>
+<span class="normal">		</span><span class="keyword">&lt;div</span><span class="normal"> </span><span class="type">id</span><span class="symbol">=</span><span class="string">"construction"</span><span class="keyword">&gt;</span>
 <span class="normal">		</span><span class="comment">&lt;!--</span>
 <span class="comment">			Contient les éléments de l'encadré principal. </span>
 <span class="comment">		--&gt;</span>
-<span class="normal">			</span><span class="keyword">&lt;img</span><span class="normal"> </span><span class="type">id</span><span class="symbol">=</span><span class="string">"img-benoit-desrosiers"</span><span class="normal"> </span><span class="type">src</span><span class="symbol">=</span><span class="string">"http://206.123.48.17/~benoitd/CN1H2013/TP3/Images/PhotoBenoit.JPG"</span><span class="normal"> </span><span class="type">alt</span><span class="symbol">=</span><span class="string">"Benoît 				Desrosiers"</span><span class="keyword">/&gt;</span>
-<span class="normal">			</span><span class="keyword">&lt;p&gt;</span>
-<span class="normal">				À l'automne 2011, on m'a offert une charge de cours en informatique. Faisant partie de la première "cuvée"</span>
-<span class="normal">				d'étudiants étant sortis de la technique en 86, je ne pouvais qu'être heureux de pouvoir faire partager mon</span>
-<span class="normal">				expérience à la prochaine génération d'étudiant. L'informatique à toujours fait partie de ma vie, et ce</span>
-<span class="normal">				milieu étant en constante évolution, je me fais un devoir d'apprendre et d'expérimenter avec les nouvelles</span>
-<span class="normal">				technologies. Quel meilleur milieu que celui de l'enseignement collégial pouvais-je trouver afin de 					satisfaire cette quête de savoir ainsi que le plaisir de partager ce savoir.</span><span class="keyword">&lt;br/&gt;</span><span class="normal"> </span>
-<span class="normal">			</span><span class="keyword">&lt;/p&gt;</span>
-<span class="normal">			</span><span class="keyword">&lt;br/&gt;</span>
-<span class="normal">			</span><span class="keyword">&lt;h2&gt;</span><span class="normal">Formation :</span><span class="keyword">&lt;/h2&gt;</span>
-<span class="normal">			</span><span class="keyword">&lt;p&gt;</span>
-<span class="normal">				DEC en informatique, Cégep de Drummondville, 1983-1986</span><span class="keyword">&lt;br/&gt;</span>
-<span class="normal">			</span><span class="keyword">&lt;br/&gt;</span>
-<span class="normal">				Bac en informatique, Université du Québec en Outaouais, 1989-1992</span><span class="keyword">&lt;br/&gt;</span>
-<span class="normal">			</span><span class="keyword">&lt;/p&gt;</span>
-<span class="normal">			</span><span class="keyword">&lt;p&gt;</span>
-<span class="normal">				Suite à ma formation, j'ai travaillé dans de nombreuses entreprises oeuvrant dans des domaines très 					diversifiés allant des systèmes de gestions comptable, à de la recherche en informatique théorique à 					l'université. Mais la majeure partie de ma carrière s'est déroulée dans la multinationale Nortel. J'y ai 					travaillé pendant près de 15 ans, jusqu'à la fermeture de l'entreprise en 2010. Durant ces années, j'y ai 					joué plusieurs rôles tels que programmeur, support technique, coordonnateur de production logicielle, 					spécialiste en intelligence d'affaires. Ces différents postes m'ont permis d'acquérir une connaissance très 					large de ce qu'est le métier d'informaticien. En 2011, j'ai eu la chance de pouvoir développer une 					application pour l'IPhone pour une entreprise Drummondvilloise. Cette expérience m'a permis de connaitre une 					nouvelle facette de la programmation: la mobilité. Toutes ces</span>
-<span class="normal">				expériences se traduisent par une vision très large de ce qu'est mon métier et , j'espère, influencent la 					formation que je donne. </span>
-<span class="normal">			</span><span class="keyword">&lt;/p&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;p&gt;</span><span class="normal">Cette page est en construction !</span><span class="keyword">&lt;br/&gt;</span><span class="normal">...</span><span class="keyword">&lt;br/&gt;</span><span class="normal">...</span><span class="keyword">&lt;br/&gt;</span><span class="normal">Revenez plus tard !</span><span class="keyword">&lt;br/&gt;</span><span class="normal">...</span><span class="keyword">&lt;/p&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;img</span><span class="normal"> </span><span class="type">src</span><span class="symbol">=</span><span class="string">"../images/peconstruction.png"</span><span class="normal"> </span><span class="type">alt</span><span class="symbol">=</span><span class="string">"Page en construction"</span><span class="keyword">/&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;/div&gt;</span>
 <span class="normal">	</span><span class="keyword">&lt;/div&gt;</span>
 <span class="normal">	</span><span class="keyword">&lt;/body&gt;</span>

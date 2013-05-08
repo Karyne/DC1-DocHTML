@@ -14,7 +14,7 @@
 #tp3html{
 	position: absolute;
 	margin-top: 30px;	
-	margin-left: 300px;
+	margin-left: 200px;
 }
 
 #tp3html-ul{

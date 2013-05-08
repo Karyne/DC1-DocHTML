@@ -45,15 +45,15 @@ http://www.gnu.org/software/src-highlite -->
 <span class="keyword">&lt;html&gt;</span>
 <span class="normal">	</span><span class="keyword">&lt;head&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;meta</span><span class="normal"> </span><span class="type">http-equiv</span><span class="symbol">=</span><span class="string">"content-type"</span><span class="normal"> </span><span class="type">content</span><span class="symbol">=</span><span class="string">"text/html; charset=UTF-8"</span><span class="keyword">&gt;</span>
+<span class="normal">		</span><span class="keyword">&lt;link</span><span class="normal"> </span><span class="type">rel</span><span class="symbol">=</span><span class="string">"stylesheet"</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../CSS/style.css"</span><span class="keyword">&gt;</span>
 <span class="normal">		</span><span class="comment">&lt;!--</span>
 <span class="comment">			CSS principale pour l'ensemble du site.</span>
 <span class="comment">		--&gt;</span>
-<span class="normal">		</span><span class="keyword">&lt;link</span><span class="normal"> </span><span class="type">rel</span><span class="symbol">=</span><span class="string">"stylesheet"</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../CSS/style.css"</span><span class="keyword">&gt;</span>
+<span class="normal">		</span><span class="keyword">&lt;link</span><span class="normal"> </span><span class="type">rel</span><span class="symbol">=</span><span class="string">"stylesheet"</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../CSS/style-du-menu.css"</span><span class="keyword">&gt;</span>
 <span class="normal">		</span><span class="comment">&lt;!--</span>
 <span class="comment">			CSS secondaire pour le menu uniquement.</span>
 <span class="comment">		--&gt;</span>
-<span class="normal">		</span><span class="keyword">&lt;link</span><span class="normal"> </span><span class="type">rel</span><span class="symbol">=</span><span class="string">"stylesheet"</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"../CSS/style-du-menu.css"</span><span class="keyword">&gt;</span>
-<span class="normal">		</span><span class="keyword">&lt;title&gt;</span><span class="normal">Album d'activitÃ©s</span><span class="keyword">&lt;/title&gt;</span>
+<span class="normal">		</span><span class="keyword">&lt;title&gt;</span><span class="normal">Album d'activités</span><span class="keyword">&lt;/title&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;meta</span><span class="normal"> </span><span class="type">name</span><span class="symbol">=</span><span class="string">"application-name"</span><span class="normal"> </span><span class="type">content</span><span class="symbol">=</span><span class="string">"HTML-Doc"</span><span class="keyword">&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;meta</span><span class="normal"> </span><span class="type">name</span><span class="symbol">=</span><span class="string">"description"</span><span class="normal"> </span><span class="type">content</span><span class="symbol">=</span><span class="string">"Documentation du code de notre TP3."</span><span class="keyword">&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;meta</span><span class="normal"> </span><span class="type">name</span><span class="symbol">=</span><span class="string">"keywords"</span><span class="normal"> </span><span class="type">content</span><span class="symbol">=</span><span class="string">"HTML,TP3,Documentation"</span><span class="keyword">&gt;</span>
@@ -61,9 +61,9 @@ http://www.gnu.org/software/src-highlite -->
 <span class="normal">	</span><span class="comment">&lt;!--</span>
 <span class="comment">		Documentation du code de notre TP3</span>
 <span class="comment">		(version 1.0, 28 avril 2013)</span>
-<span class="comment">		Ce fichier de documentation html donne un apperÃ§u des apprentissages</span>
-<span class="comment">		acquis pour faire notre TP3 dans le cours de Conception et dÃ©veloppement</span>
-<span class="comment">		d'une application hypermÃ©dia.  	 </span>
+<span class="comment">		Ce fichier de documentation html donne un apperçu des apprentissages</span>
+<span class="comment">		acquis pour faire notre TP3 dans le cours de Conception et développement</span>
+<span class="comment">		d'une application hypermédia.  	 </span>
 <span class="comment">	</span>
 <span class="comment">		Copyright (C)  2013  DAVID BROUSSEAU &amp; KARYNE ROBIDAS-BATHALON.</span>
 
@@ -87,22 +87,22 @@ http://www.gnu.org/software/src-highlite -->
 <span class="normal">			</span><span class="comment">&lt;!--</span>
 <span class="comment">				Libre de droit pris sur Wiki.</span>
 <span class="comment">			--&gt;</span>
-<span class="normal">			</span><span class="keyword">&lt;img</span><span class="normal"> </span><span class="type">src</span><span class="symbol">=</span><span class="string">"../images/logocdd.png"</span><span class="normal"> </span><span class="type">alt</span><span class="symbol">=</span><span class="string">"CÃ©gep de Drummondville"</span><span class="keyword">/&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;img</span><span class="normal"> </span><span class="type">src</span><span class="symbol">=</span><span class="string">"../images/logocdd.png"</span><span class="normal"> </span><span class="type">alt</span><span class="symbol">=</span><span class="string">"Cégep de Drummondville"</span><span class="keyword">/&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;/div&gt;</span>
 <span class="normal">		</span><span class="comment">&lt;!--</span>
-<span class="comment">			Contient la banniÃ¨re.</span>
+<span class="comment">			Contient la bannière.</span>
 <span class="comment">		--&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;div</span><span class="normal"> </span><span class="type">id</span><span class="symbol">=</span><span class="string">"banniere"</span><span class="keyword">&gt;</span>
 <span class="normal">			</span><span class="comment">&lt;!--</span>
-<span class="comment">				CrÃ©Ã© par Karyne</span>
+<span class="comment">				Créé par Karyne</span>
 <span class="comment">			--&gt;</span>
-<span class="normal">			</span><span class="keyword">&lt;img</span><span class="normal"> </span><span class="type">src</span><span class="symbol">=</span><span class="string">"../images/banniereinfo.png"</span><span class="normal"> </span><span class="type">alt</span><span class="symbol">=</span><span class="string">"DÃ©partement de l'informatique"</span><span class="keyword">/&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;img</span><span class="normal"> </span><span class="type">src</span><span class="symbol">=</span><span class="string">"../images/banniereinfo.png"</span><span class="normal"> </span><span class="type">alt</span><span class="symbol">=</span><span class="string">"Département de l'informatique"</span><span class="keyword">/&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;/div&gt;</span>
 <span class="normal">		</span><span class="comment">&lt;!--</span>
-<span class="comment">			Contient le menu dÃ©roulant.</span>
-<span class="comment">			BasÃ© sur le modÃ¨le de</span>
+<span class="comment">			Contient le menu déroulant.</span>
+<span class="comment">			Basé sur le modèle de</span>
 <span class="comment">			http://www.easytutoriel.com/comment-creer-un-menu-deroulant-en-css-sans-javascript/</span>
-<span class="comment">			et modifiÃ© dans le cadre d'un projet scolaire.</span>
+<span class="comment">			et modifié dans le cadre d'un projet scolaire.</span>
 <span class="comment">		--&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;div</span><span class="normal"> </span><span class="type">id</span><span class="symbol">=</span><span class="string">"navbar"</span><span class="keyword">&gt;</span>
 <span class="normal">			</span><span class="keyword">&lt;ul</span><span class="normal"> </span><span class="type">id</span><span class="symbol">=</span><span class="string">"menu"</span><span class="keyword">&gt;</span>
@@ -112,11 +112,11 @@ http://www.gnu.org/software/src-highlite -->
 <span class="normal">						</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./sommaire-du-programme.html"</span><span class="keyword">&gt;</span><span class="normal">Sommaire</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
 <span class="normal">						</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./cours/420-CN1-DM.html"</span><span class="keyword">&gt;</span><span class="normal">Liste de cours</span><span class="keyword">&lt;/a&gt;</span>
 <span class="normal">							</span><span class="keyword">&lt;ul</span><span class="normal"> </span><span class="type">class</span><span class="symbol">=</span><span class="string">"sous--menu"</span><span class="keyword">&gt;</span>
-<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">SystÃ¨me d'exploitation I</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
-<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./cours/420-CN1-DM.html"</span><span class="keyword">&gt;</span><span class="normal">Conception et dÃ©veloppement d'une 								application hypermÃ©dia I</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
-<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Programmation orientÃ©e par objet 									I</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
-<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Base de donnÃ©es II</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
-<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">RÃ©seau II</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Système d'exploitation I</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./cours/420-CN1-DM.html"</span><span class="keyword">&gt;</span><span class="normal">Conception et développement d'une 								application hypermédia I</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Programmation orientée par objet 									I</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Base de données II</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Réseau II</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
 <span class="normal">								</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Soutien technique en</span>
 <span class="normal">								informatique</span><span class="keyword">&lt;a&gt;&lt;/li&gt;</span>
 <span class="normal">							</span><span class="keyword">&lt;/ul&gt;</span>
@@ -126,30 +126,30 @@ http://www.gnu.org/software/src-highlite -->
 <span class="normal">				</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">""</span><span class="keyword">&gt;</span><span class="normal">Professeurs</span><span class="keyword">&lt;/a&gt;</span>
 <span class="normal">					</span><span class="keyword">&lt;ul</span><span class="normal"> </span><span class="type">class</span><span class="symbol">=</span><span class="string">"sous-menu"</span><span class="keyword">&gt;</span>
 <span class="normal">						</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Guy Bernard</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
-<span class="normal">						</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./professeurs/benoit-desrosiers.html"</span><span class="keyword">&gt;</span><span class="normal">BenoÃ®t Desrosiers</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="normal">						</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./professeurs/benoit-desrosiers.html"</span><span class="keyword">&gt;</span><span class="normal">Benoît Desrosiers</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
 <span class="normal">						</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Jonathan Gareau</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
 <span class="normal">						</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Sylvie L'Heureux</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
 <span class="normal">						</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Louis Marchand</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
 <span class="normal">					</span><span class="keyword">&lt;/ul&gt;</span>
 <span class="normal">				</span><span class="keyword">&lt;/li&gt;</span>
 <span class="normal">				</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./page-en-construction.html"</span><span class="keyword">&gt;</span><span class="normal">Salle de presse</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
-<span class="normal">				</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./album-dactivites.html"</span><span class="keyword">&gt;</span><span class="normal">ActivitÃ©s</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="normal">				</span><span class="keyword">&lt;li&gt;&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./album-dactivites.html"</span><span class="keyword">&gt;</span><span class="normal">Activités</span><span class="keyword">&lt;/a&gt;&lt;/li&gt;</span>
 <span class="normal">			</span><span class="keyword">&lt;/ul&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;/div&gt;</span>
 <span class="normal">		</span><span class="comment">&lt;!--</span>
-<span class="comment">			Contient les Ã©lÃ©ments de contact.</span>
+<span class="comment">			Contient les éléments de contact.</span>
 <span class="comment">		--&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;div</span><span class="normal"> </span><span class="type">id</span><span class="symbol">=</span><span class="string">"nousrejoindre"</span><span class="keyword">&gt;</span><span class="normal">	</span>
 <span class="normal">			</span><span class="keyword">&lt;h1&gt;</span><span class="normal">Nous rejoindre :</span><span class="keyword">&lt;/h1&gt;</span>
 <span class="normal">			</span><span class="keyword">&lt;p&gt;</span>
-<span class="normal">				DÃ©partement de l'informatique</span><span class="keyword">&lt;br/&gt;</span>
-<span class="normal">				CÃ©gep de Drummondville</span><span class="keyword">&lt;br/&gt;</span>
+<span class="normal">				Département de l'informatique</span><span class="keyword">&lt;br/&gt;</span>
+<span class="normal">				Cégep de Drummondville</span><span class="keyword">&lt;br/&gt;</span>
 <span class="normal">				960, rue Saint-Georges</span><span class="keyword">&lt;br/&gt;</span>
-<span class="normal">				Drummondville, (QuÃ©bec)</span><span class="keyword">&lt;br/&gt;</span>
+<span class="normal">				Drummondville, (Québec)</span><span class="keyword">&lt;br/&gt;</span>
 <span class="normal">				J2C 6A2</span><span class="keyword">&lt;br/&gt;</span>
 <span class="normal">				Local 2608</span><span class="keyword">&lt;br/&gt;&lt;br/&gt;</span>
 <span class="normal">			</span><span class="keyword">&lt;/p&gt;</span>
-<span class="normal">				</span><span class="keyword">&lt;h1&gt;</span><span class="normal">TÃ©lÃ©phone :</span><span class="keyword">&lt;/h1&gt;</span>
+<span class="normal">				</span><span class="keyword">&lt;h1&gt;</span><span class="normal">Téléphone :</span><span class="keyword">&lt;/h1&gt;</span>
 <span class="normal">			</span><span class="keyword">&lt;p&gt;</span>
 <span class="normal">				819-478-4671</span><span class="keyword">&lt;br/&gt;</span>
 <span class="normal">				Poste 293</span>
@@ -159,11 +159,11 @@ http://www.gnu.org/software/src-highlite -->
 <span class="comment">			Contient l'information sur notre emplacement actuel sur le site.</span>
 <span class="comment">		--&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;div</span><span class="normal"> </span><span class="type">id</span><span class="symbol">=</span><span class="string">"breadcrum"</span><span class="keyword">&gt;</span>
-<span class="normal">			</span><span class="keyword">&lt;p&gt;</span><span class="normal">Album d'activitÃ©s</span><span class="keyword">&lt;/p&gt;</span>
+<span class="normal">			</span><span class="keyword">&lt;p&gt;</span><span class="normal">Album d'activités</span><span class="keyword">&lt;/p&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;/div&gt;</span>
 <span class="normal">		</span><span class="keyword">&lt;div</span><span class="normal"> </span><span class="type">id</span><span class="symbol">=</span><span class="string">"album"</span><span class="keyword">&gt;</span>
 <span class="normal">		</span><span class="comment">&lt;!--</span>
-<span class="comment">			Contient les Ã©lÃ©ments de l'encadrÃ© principal. </span>
+<span class="comment">			Contient les éléments de l'encadré principal. </span>
 <span class="comment">		--&gt;</span>
 <span class="normal">			</span><span class="keyword">&lt;a</span><span class="normal"> </span><span class="type">href</span><span class="symbol">=</span><span class="string">"./Images/DSC_2828.jpg"</span><span class="keyword">&gt;</span>
 <span class="normal">				</span><span class="keyword">&lt;img</span><span class="normal"> </span><span class="type">class</span><span class="symbol">=</span><span class="string">"activites"</span><span class="normal"> </span><span class="type">src</span><span class="symbol">=</span><span class="string">"http://206.123.48.17/~benoitd/CN1H2013/TP3/Images/DSC_2828.jpg"</span><span class="normal"> </span><span class="type">alt</span><span class="symbol">=</span><span class="string">"Photo 1"</span><span class="keyword">/&gt;</span>
